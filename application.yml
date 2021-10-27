@@ -40,6 +40,6 @@ spec:
       containers:
       
         - name: hostname-pod
-          image: fujikomalan/pod:v1
+          image: fujikomalan/pod:v2
           ports:
             - containerPort: 80
